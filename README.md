@@ -1,4 +1,7 @@
-## Hey it's Rahul, welcome to my GitHub 👋
+<div align="center">
+<h2>Hey it's Rahul, welcome to my GitHub 👋</h2>
+</div>
+
 
 <!--
 **15dani1/15dani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
